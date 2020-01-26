@@ -1,0 +1,17 @@
+{
+  "name": "the_name",
+  "version": "1.0.0",
+  "description": "i dont know, we will see",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "keywords": [
+    "clock"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
