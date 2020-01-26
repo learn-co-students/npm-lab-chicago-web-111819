@@ -1,0 +1,17 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "Just a test for package.json setup.",
+  "repository": {
+    "url": "dutad.com/repos/color-clock.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "Dut A.",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
